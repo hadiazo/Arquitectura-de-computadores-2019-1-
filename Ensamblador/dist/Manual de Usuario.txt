@@ -1,0 +1,17 @@
+Para usar este programa correctamente, siga estos pasos:
+
+1. Copie las columnas de la plantilla dada en clase, desde HLL hasta ADDR (hex).
+2. Pegue el contenido en un archivo de texto .txt y guárdelo.
+3. Abra el programa y presione "Buscar archivo". De inmediato se abrirá un explorador que le permitirá localizar el fichero guardado en el paso anterior. Si este es legible, su contenido se podrá visualizar de inmediato en el área de texto de la izquierda.
+4. Presione "Continuar". Si siguió las recomendaciones anteriores, los números en hexadecimal saldrán en el formato adecuado para programar en C++ y VHDL, y estarán escritos en los archivos "output_cpp.txt" y "output_vhdl.txt", respectivamente.
+
+Si tuvo errores en la ejecución del programa, por favor tenga en cuenta lo siguiente:
+- En la primera fila es opcional colocar ".code" en la columna "Section", pero es obligatorio que esté ".data" justo en la misma fila donde se halle la primera variable o constante.
+- Se recomienda que no pegue en el archivo de texto filas vacías o carentes de contenido importante.
+- Deje únicamente un salto de línea al final del archivo de texto. De lo contrario se generará un error de lectura.
+------------------------------------
+DESARROLLADORES
+- Sebastián Castañeda Romero
+- Harold Alfredo Díaz Ortiz
+- Julián David Jiménez Zúñiga
+- José Marcos Macías Mahecha
